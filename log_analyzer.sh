@@ -6,7 +6,7 @@
 LOG_FILE="/var/log/nginx/access.log"   # Путь к логу веб-сервера
 OFFSET_FILE="/tmp/log_analyzer.offset" # Файл для хранения номера последней строки
 LOCK_FILE="/tmp/log_analyzer.lock"     # Файл блокировки
-EMAIL="admin@example.com"              # Почта для отправки отчета
+EMAIL="1092vst@gmail.com"              # Почта для отправки отчета
 TEMP_LOG="/tmp/temp_log_chunk.txt"     # Временный файл для текущего сегмента
 # ==========================================
 
